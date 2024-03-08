@@ -3,3 +3,6 @@ require("config.lazy")
 
 -- my keymaps settings
 require("user.keymaps")
+
+-- my plugin settings
+require("user.plugins.neo-tree")
